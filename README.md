@@ -42,9 +42,9 @@ The strategy development was divided into three phases, simulating a real-world 
 * **Bidding Efficiency:** The linear bidding strategy successfully prioritized high-value impressions (e.g., Native ads in active hours) while adhering to the global budget constraint.
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Placeholder+for+Distribution+Chart" alt="Bid Distribution">
+  <img src="./chart.png" alt="Bid Distribution" width="600">
   <br>
-  <em>(Distribution of Predicted pCTR vs. Bid Prices)</em>
+  <em>(Figure: Distribution of Predicted pCTR vs. Bid Prices)</em>
 </p>
 
 ---
